@@ -1,0 +1,58 @@
+[
+    {
+      "first_name": "Rachel",
+      "last_name": "Green",
+      "occupation": "Fashion Buyer",
+      "age": 25,
+      "gender": "Female"
+    },
+    {
+      "first_name": "Monica",
+      "last_name": "Geller",
+      "occupation": "Head Chef",
+      "age": 28,
+      "gender": "Female"
+    },
+    {
+      "first_name": "Phoebe",
+      "last_name": "Buffay",
+      "occupation": "Massage Therapist",
+      "age": 30,
+      "gender": "Female"
+    },
+    {
+      "first_name": "Joey",
+      "last_name": "Tribbiani",
+      "occupation": "Actor",
+      "age": 25,
+      "gender": "Male"
+    },
+    {
+      "first_name": "Chandler",
+      "last_name": "Bing",
+      "occupation": "Data Processor",
+      "age": 26,
+      "gender": "Male"
+    },
+    {
+      "first_name": "Ross",
+      "last_name": "Geller",
+      "occupation": "Paleontologist",
+      "age": 26,
+      "gender": "Male"
+    },
+    {
+      "first_name": "Janice",
+      "last_name": "",
+      "occupation": "Clothing Buyer",
+      "age": 33,
+      "gender": "Female"
+    },
+    {
+      "first_name": "Gunther",
+      "last_name": "",
+      "occupation": "Barista",
+      "age": 28,
+      "gender": "Male"
+    }
+]
