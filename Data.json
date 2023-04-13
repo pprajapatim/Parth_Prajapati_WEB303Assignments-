@@ -1,0 +1,67 @@
+[
+    {
+      "first_name": "Rachel",
+      "last_name": "Green",
+      "occupation": "Fashion Buyer",
+      "age": 25,
+      "gender": "Female",
+      "bod": "21/10/1973"
+    },
+    {
+      "first_name": "Monica",
+      "last_name": "Geller",
+      "occupation": "Head Chef",
+      "age": 28,
+      "gender": "Female",
+      "bod": "26/08/1976"
+    },
+    {
+      "first_name": "Phoebe",
+      "last_name": "Buffay",
+      "occupation": "Massage Therapist",
+      "age": 30,
+      "gender": "Female",
+      "bod": "21/06/1983"
+    },
+    {
+      "first_name": "Joey",
+      "last_name": "Tribbiani",
+      "occupation": "Actor",
+      "age": 25,
+      "gender": "Male",
+      "bod": "15/03/1980"
+    },
+    {
+      "first_name": "Chandler",
+      "last_name": "Bing",
+      "occupation": "Data Processor",
+      "age": 26,
+      "gender": "Male",
+      "bod": "28/07/1976"
+    },
+    {
+      "first_name": "Ross",
+      "last_name": "Geller",
+      "occupation": "Paleontologist",
+      "age": 26,
+      "gender": "Male",
+      "bod": "16/03/1975"
+    },
+    {
+      "first_name": "Janice",
+      "last_name": "",
+      "occupation": "Clothing Buyer",
+      "age": 33,
+      "gender": "Female",
+      "bod": "11/05/1979"
+    },
+    {
+      "first_name": "Gunther",
+      "last_name": "",
+      "occupation": "Barista",
+      "age": 28,
+      "gender": "Male",
+      "bod": "01/06/1969"
+    }
+]
+  
